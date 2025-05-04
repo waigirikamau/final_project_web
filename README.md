@@ -2,7 +2,7 @@ Vibrant Minimal Blog 🌈
 A modern, responsive blog website that combines minimalist design with vibrant colors and interactive elements. Built with HTML5, CSS3, and JavaScript.
 
 🚀 Live Demo
-View the live website here (Replace with your deployment link)
+View the live website here (https://waigirikamau.github.io/final_project_web/)
 
 ✨ Key Features
 1. Responsive Design 📱
